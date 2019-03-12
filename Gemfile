@@ -5,6 +5,7 @@ ruby '2.6.0'
 
 gem 'activeadmin'
 gem 'devise'
+gem 'jbuilder', '~> 2.8'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.2'
