@@ -1,0 +1,10 @@
+default: &default
+  username: "woner"
+  password: "q15991599"
+
+development:
+  <<: *default
+test:
+  <<: *default
+production:
+  <<: *default
